@@ -1,4 +1,6 @@
-![项目探讨QQ群](https://github.com/user-attachments/assets/03aa9672-4b93-4913-b2aa-4e688b792208)
+# clawlink-triarch
+全球首个开源软硬件集成AI系统  ClawLink-TriArch 是一个开创性的项目，它将 **OpenClaw 大脑层智能**、**树莓派脊椎层边缘计算**和 **ESP32末梢层硬件控制**三者有机融合，形成了从多模态交互到全自动化闭环的完整链路。
+![项目探讨QQ群](https://github.com/user-attachments/assets/abc40b20-9fd4-4f4f-a7d0-4314af461a44)
 
 # ClawLink-TriArch 项目功能性、实用性与开源意义分析
 
@@ -201,6 +203,5 @@ ClawLink-TriArch 是一个开创性的项目，它将 **OpenClaw 大脑层智能
 
 ---
 
-**正如项目文档所说：**
-> *ClawLink-TriArch 是全球首个开源的软硬件集成AI系统，融合 OpenClaw 大脑层智能、树莓派脊椎层边缘计算、ESP32末梢层硬件控制，实现从多模态交互到全自动化闭环的完整链路。*# clawlink-triarch
-全球首个开源软硬件集成AI系统  ClawLink-TriArch 是一个开创性的项目，它将 **OpenClaw 大脑层智能**、**树莓派脊椎层边缘计算**和 **ESP32末梢层硬件控制**三者有机融合，形成了从多模态交互到全自动化闭环的完整链路。
+
+> *ClawLink-TriArch 是全球首个开源的软硬件集成AI系统，融合 OpenClaw 大脑层智能、树莓派脊椎层边缘计算、ESP32末梢层硬件控制，实现从多模态交互到全自动化闭环的完整链路。*
